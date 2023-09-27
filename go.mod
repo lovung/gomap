@@ -1,6 +1,6 @@
 module github.com/lovung/gomap
 
-go 1.21.0
+go 1.21
 
 require (
 	github.com/lovung/bloomfilter v0.0.1
